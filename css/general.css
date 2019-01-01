@@ -20,6 +20,7 @@ img{
     margin-left:3%;
     margin-right:3%;
     border-radius:25px;
+    height: 2px;
 }
 .fix_row_size{
     text-align:center;
@@ -34,10 +35,8 @@ img{
     text-transform:uppercase;
     text-align:right;
 }
-
 .project_description{
     margin:20px;
-
 }
 .sub_title{
     color:hsl(218, 80%, 68%);
@@ -55,34 +54,33 @@ img{
     font-size:x-large;
     margin:0;
 }
-
 .logo {
-
     margin-top:5px;
     min-width:100px;
 }
 .img_project{
-
     margin-top:5px;
     min-width:100px;
+    max-width:10%;
 }
 .footer_bottom {
     margin-bottom:0px;
     color: hsla(218, 80%, 68%,0);
-
 }
-
 .profil{
     max-width: 100%;
     float: right;
 }
-
 .content{
     background: rgba(44, 76, 118, 0.69);
     width: 200%;
     height:1500%;
     border-radius: 30px;
 }
-.header{
-    background-image:url('../images/iceberg.png');
+.header_container{
+    background-image:url('../images/iceberg_main.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    background-position: center;
 }
