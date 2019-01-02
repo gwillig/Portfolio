@@ -1,46 +1,60 @@
 .logo{
-    max-width:20%;
+    max-width: 20%;
 }
+
 .headline{
-    font-size:xx-large;
+    font-size: xx-large;
 }
+
 .container{
-    margin:0px
+    margin: 0px
 }
+
 .sub_title{
     font-size: large;
 }
+
 .project_title{
-    font-size:large;
+    font-size: large;
 }
+
 .project_link{
-    font-size:medium;
+    font-size: medium;
 }
+
 .smartphone{
-    width:30%
+    width: 30%
 }
+
 .project_description{
-    margin:5px;
+    margin: 5px;
 }
+
 .profil_img{
     display: inline;
 }
+
 .name{
-    padding:0px;
+    padding: 0px;
     padding-bottom: 400px;
 }
+
 .sub_title{
-    color:hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 0%);
 }
+
 .profil_img{
-    width:40%;
+    width: 40%;
 }
+
 .content{
-    border-radius:0px;
+    border-radius: 0px;
 }
+
 .social_media{
-    padding-left:40px;
+    padding-left: 40px;
 }
+
 .header_smartphone{
-    padding-left:0px;
+    padding-left: 0px;
 }
