@@ -67,10 +67,6 @@ img{
     margin-bottom:0px;
     color: hsla(218, 80%, 68%,0);
 }
-.profil{
-    max-width: 100%;
-    float: right;
-}
 .content{
     background: rgba(44, 76, 118, 0.69);
     width: 200%;
@@ -82,5 +78,4 @@ img{
     background-repeat: no-repeat;
     background-size: contain;
     background-size: cover;
-    background-position: center;
 }
