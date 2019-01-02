@@ -1,9 +1,9 @@
-##License for the images
-For the following images applies the Pexels License
-https://www.pexels.com/de-de/foto/app-apps-design-elektrik-147413/
-https://www.pexels.com/de-de/foto/arbeit-arbeiten-begrifflich-bildschirm-270404/
-https://www.pexels.com/de-de/foto/business-computer-diagramm-geschaft-241544/
-https://www.pexels.com/de-de/foto/meer-wasser-ozean-winter-48823/
+## License for the images
+For the following images applies the Pexels License:
+* https://www.pexels.com/de-de/foto/app-apps-design-elektrik-147413/  &nbsp;
+* https://www.pexels.com/de-de/foto/arbeit-arbeiten-begrifflich-bildschirm-270404/
+* https://www.pexels.com/de-de/foto/business-computer-diagramm-geschaft-241544/
+* https://www.pexels.com/de-de/foto/meer-wasser-ozean-winter-48823/
 
 Source: https://www.pexels.com/de-de/foto/abstrakt-bewegung-bewirken-blitz-373543/
 
@@ -18,4 +18,5 @@ That means:
  You can use them for commercial and noncommercial purposes. 
  You do not need to ask permission from or provide credit to 
  the photographer or Unsplash, although it is appreciated when possible.
- Source:  https://unsplash.com/license
+ Source: 
+ * https://unsplash.com/license
