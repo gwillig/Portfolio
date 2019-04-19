@@ -1,3 +1,11 @@
+# Udacity-portfolio-project
+This repository is portfolio project represented for Udacity's Front-End Web developer nanodegree
+
+# How to use it
+* Clone/download it
+* open index.html
+
+
 ## License for the images
 For the following images applies the Pexels License:
 * https://www.pexels.com/de-de/foto/app-apps-design-elektrik-147413/  &nbsp;
@@ -20,3 +28,7 @@ That means:
  the photographer or Unsplash, although it is appreciated when possible.
  Source: 
  * https://unsplash.com/license
+
+
+# Note
+A live version can be fount under http://gustavwillig.herokuapp.com/
