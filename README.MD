@@ -1,7 +1,7 @@
 # Udacity-portfolio-project
 This repository is portfolio project represented for Udacity's Front-End Web developer nanodegree
 
-# How to use it
+## How to use it
 1. Clone or download the project
 2. Open the index.html file in a browser 
 
@@ -28,11 +28,11 @@ That means:
  Source: 
  * https://unsplash.com/license
 
-# License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2018 Gustav Willig
 
 
-# Note
+## Note
 A live version can be fount under http://gustavwillig.herokuapp.com/
