@@ -28,11 +28,11 @@ That means:
  Source: 
  * https://unsplash.com/license
 
+## Note
+A live version can be fount under http://gustavwillig.herokuapp.com/
+
 ## License
 The MIT License (MIT)
 
 Copyright (c) 2018 Gustav Willig
 
-
-## Note
-A live version can be fount under http://gustavwillig.herokuapp.com/
